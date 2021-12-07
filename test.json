@@ -1,16 +1,23 @@
 [
+  {
+    "name": "Venom 2",
+    "type": "Action, Horror",
+    "movie": "https://m0.vudeo.io/2vp37kqf5uvavd7ilofrtomgq2egxz3s7evnwtsjlodbrtnf4ynbf3p5rnxa/v.mp4",
+    "img": "https://i.imgur.com/abPsmPq.jpg",
+    "description": "Après avoir choisi le journaliste d'enquête Eddie Brock comme hôte, le symbiote extraterrestre Venom doit affronter un nouvel ennemi du nom de Carnage, qui se trouve à être l'alter ego du tueur en série Cletus Kasady."
+  },
+  {
+    "name": "Un homme en colère",
+    "type": "Action, Poursuite, Crime",
+    "movie": "https://m5.vudeo.io/2vp3tts43evjdohilnvbtiwcrralsrh43bhjljql2xm5nujittggbqwlopfa/v.mp4",
+    "img": "https://i.imgur.com/gwWjLgt.jpg",
+    "description": "À Los Angeles, Harry ou H, un convoyeur de fond fraîchement engagé surprend ses collègues par l'incroyable précision de ses tirs de riposte alors qu'ils subissent les assauts de braqueurs expérimentés.Tous se demandent désormais qui il est, d'où il vient et pourquoi il est là. Les véritables intentions de cet homme mystérieux commencent à être remises en question, révélant un plan secret d'envergure."
+  },
     {
-    "name" : "VENOM 2",
-    "type" : "Action, Horror",
-    "movie" : "https://m0.vudeo.io/2vp37kqf5uvavd7ilofrtomgq2egxz3s7evnwtsjlodbrtnf4ynbf3p5rnxa/v.mp4",
-    "img" : "https://i.imgur.com/abPsmPq.jpg",
-    "description" : "Après avoir choisi le journaliste d'enquête Eddie Brock comme hôte, le symbiote extraterrestre Venom doit affronter un nouvel ennemi du nom de Carnage, qui se trouve à être l'alter ego du tueur en série Cletus Kasady."
-    },
-    {
-    "name" : "UN HOMME EN COLERE",
-    "type" : "Action, Poursuite, Crime",
-    "movie" : "HTML5, CSS, JavaScript",
-    "img" : "https://i.imgur.com/gwWjLgt.jpg",
-    "description" : "À Los Angeles, Harry ou H, un convoyeur de fond fraîchement engagé surprend ses collègues par l'incroyable précision de ses tirs de riposte alors qu'ils subissent les assauts de braqueurs expérimentés.Tous se demandent désormais qui il est, d'où il vient et pourquoi il est là. Les véritables intentions de cet homme mystérieux commencent à être remises en question, révélant un plan secret d'envergure."
-    }
+    "name": "Ida Red",
+    "type": "Crime, Drame, Thriller",
+    "movie": "https://m0.vudeo.io/2vp36uyg5uvjdohilofbtpeayihrfxnftcne5xknghuyc2ftz7sa2urzvkva/v.mp4",
+    "img": "https://i.imgur.com/7gOByET.jpg",
+    "description": "Oklahoma. Une criminelle doit faire face à une maladie en phase terminale tout en purgeant sa peine de 25 ans de prison. Elle incite son fils Wyatt à rester dans le droit chemin et à reprendre l'entreprise familiale."
+  }
 ]
