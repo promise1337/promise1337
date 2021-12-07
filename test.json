@@ -3,12 +3,14 @@
     "nom" : "dada",
     "age" : "23 ans",
     "ville" : "Annecy",
-    "domaine" : "HTML5, CSS, JavaScript"
+    "domaine" : "HTML5, CSS, JavaScript",
+    "img" : "https://img-4.linternaute.com/NX6LGYbI3uDzpSv4uiB1ntkMGZc=/1240x/smart/4509df3b74484420a08994878b9367fa/ccmcms-linternaute/28860147.jpg"
     },
     {
     "nom" : "dd",
     "age" : "45 ans",
     "ville" : "sperme",
-    "domaine" : "HTML5, CSS, JavaScript"
+    "domaine" : "HTML5, CSS, JavaScript",
+    "img" : "https://i0.wp.com/lynxbee.com/wp-content/uploads/2019/06/github.png"
     }
 ]
