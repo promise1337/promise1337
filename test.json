@@ -26,5 +26,12 @@
     "movie": "https://m11.vudeo.io/2vp3yxvl5qvjdohilohbt2e3y3ltvtty5pbmrodvqdz4qwv7avh4aqcsndpa/v.mp4",
     "img": "https://i.imgur.com/ChmFtk2.jpg",
     "description": "Un homme voit sa tranquillité bouleversée par l'arrivée d'un flic et de dangereux criminels."
+  },
+  {
+    "name": "La soupe au choux",
+    "type": "Comédie française",
+    "movie": "https://m9.vudeo.io/2vp3uyql5uvavd7ilofrtm6mtwejkbdvsrmzbg2sev73rr7kb7ikix2o24ma/v.mp4",
+    "img": "https://i.imgur.com/K3Lmonn.jpg",
+    "description": "Le Claude et Le Bombé vivent dans un petit hameau. Le premier est veuf, le second célibataire. Ensemble, ils passent la plupart de leur temps à trinquer. Une nuit, un extraterrestre atterrit dans le champ de Claude. Il ne semble pas agressif."
   }
 ]
